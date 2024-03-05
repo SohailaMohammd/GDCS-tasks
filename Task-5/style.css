@@ -1,0 +1,71 @@
+.shape {
+    display: inline-block;
+}
+
+.one {
+    background: #9E9E9E;
+    border: 5px solid red;
+    text-align: center;
+    width: 113px;
+    height: 68px;
+    margin: 50px;
+    outline: 5px solid black;
+}
+
+.two {
+    background: #9E9E9E;
+    border: 5px solid;
+    border-color: blue green;
+    text-align: center;
+    width: 113px;
+    height: 68px;
+    margin: 50px;
+    outline: 5px solid black;
+}
+
+.three {
+    background: #9E9E9E;
+    border: 5px dashed;
+    border-color: red green blue yellow;
+    text-align: center;
+    width: 113px;
+    height: 68px;
+    margin: 50px;
+    outline: 5px solid black;
+}
+
+.a {
+    width: 400px;
+    height: 33px;
+    border-left: 5px solid #a81884;
+    outline: 5px solid #bdbdbd78;
+    background-color: #bdbdbd78;
+    margin-left: 25px;
+}
+
+p {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.b {
+    width: 400px;
+    height: 33px;
+    border-left: 5px solid #09594d;
+    outline: 5px solid #bdbdbd78;
+    background-color: #bdbdbd78;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+.c {
+
+    width: 400px;
+    height: 33px;
+    border-left: 5px solid #3b0c81;
+    outline: 5px solid #bdbdbd78;
+    background-color: #bdbdbd78;
+    margin-top: 45px;
+    margin-left: 25px;
+
+}
