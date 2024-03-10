@@ -1,0 +1,87 @@
+.all {
+    color: aliceblue;
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.a {
+    background-color: rgb(87, 11, 11);
+    width: 90px;
+    display: block;
+    height: 50px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-top: 18px;
+}
+
+.b {
+    background-color: rgb(87, 11, 11);
+    width: 230px;
+    display: block;
+    height: 50px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.c {
+    background-color: rgb(87, 11, 11);
+    width: 345px;
+    display: block;
+    height: 50px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.d {
+    background-color: rgb(87, 11, 11);
+    width: 385px;
+    display: block;
+    height: 74px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+.headers {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+h3 {
+    text-transform: lowercase;
+}
+
+.one {
+    background-color: rgb(76 75 79 / 43%);
+    width: 400px;
+    padding: 20px;
+
+}
+
+.two {
+    background-color: rgb(76 75 79 / 43%);
+    width: 400px;
+    padding: 20px;
+
+}
+
+.three {
+    background-color: rgb(76 75 79 / 43%);
+    ;
+    width: 400px;
+    padding: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
