@@ -1,0 +1,126 @@
+table {
+    background-color: aliceblue;
+    width: 50%;
+}
+
+.c {
+    width: 29%;
+}
+
+.p {
+    width: 13%;
+}
+
+p {
+    display: inline;
+    padding: 5px 11px;
+}
+
+.v {
+    background-color: #2bb4e0;
+    color: white;
+}
+
+.d {
+    background-color: rgb(205 49 49);
+    color: aliceblue;
+}
+
+th {
+    background-color: rgba(21, 21, 21, 0.785);
+    color: white;
+    font-weight: 200;
+    width: 60px;
+    height: 40px;
+    padding: 5px;
+}
+
+td {
+    width: 134px;
+    height: 63px;
+    padding: 5px;
+    text-align: center;
+    background-color: #e2e2e2e8;
+}
+
+.html {
+    background-color: #e2e2e2;
+    width: 390px;
+    height: 125px;
+    margin-left: 150px;
+}
+
+img {
+    width: 90px;
+    height: 50px;
+}
+
+.third {
+    background-color: #e2e2e2;
+    width: 390px;
+    height: 100px;
+    margin-left: 150px;
+
+}
+
+ol {
+    padding-left: 10px;
+}
+
+.th {
+    list-style: circle;
+    padding-left: 10px;
+
+}
+
+li {
+    background-color: white;
+    width: 340px;
+    height: 22px;
+    margin: 10px 20px;
+}
+
+.all {
+    background-color: #efeeee;
+    padding: 16px;
+    width: 50%;
+}
+
+.full {
+    text-align: center;
+    background-color: #BDBDBD;
+    padding: 6px;
+    margin: 1px 10px;
+    width: 96%;
+}
+
+.bigThree,
+.BigTwo,
+.bigFour {
+    display: flex;
+    margin: 5px;
+}
+
+.three {
+    width: 300px;
+    text-align: center;
+    background-color: #BDBDBD;
+    padding: 10px;
+    margin: 5px;
+}
+
+.two {
+    width: 50%;
+    text-align: center;
+    background-color: #BDBDBD;
+    padding: 10px;
+    margin: 5px;
+}
+
+.four {
+    width: 25%;
+    text-align: center;
+    background-color: #BDBDBD;
+    padding: 10px;
+    margin: 5px;
+}
