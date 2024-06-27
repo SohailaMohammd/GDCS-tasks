@@ -17,6 +17,11 @@ body {
     height: 60px;
     padding-top: 20px;
     padding-left: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
 
     & ul li {
         display: flex;
@@ -52,7 +57,7 @@ body {
 
 .body {
     background: url(images/coffeehouse.jpg) center/cover no-repeat;
-    height: 550px;
+    height: 650px;
 
 }
 
@@ -70,7 +75,7 @@ body {
     color: white;
     font-size: 50px;
     font-weight: 100;
-    padding-top: 30px;
+    padding-top: 120px;
 }
 
 .aboutt {
